@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=abhijithvinod-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256942502%3Fv%3D4" alt="abhijithvinod-blip hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=abhijithvinod-blip&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F256942502%3Fv%3D4" alt="Abhijith Vinod hero visual" />
 </p>
 
 <p align="center"><b>abhijithvinod-blip</b> · Backend or systems engineer<br/><sub>Building in public on GitHub.</sub></p>
